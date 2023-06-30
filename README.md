@@ -1,2 +1,2 @@
 # YOLOv8-Licence-Plate-Detection
- With deployment on ROBOFLOW 
+ With Deployment on ROBOFLOW 
